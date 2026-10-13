@@ -1,5 +1,5 @@
 /* Общие стили. Начните знакомство с цветов и блока .model-card. */
-:root { --paper:#f6f5ef; --white:#fff; --ink:#172d27; --green:#214c3f; --muted:#5b6a63; --line:#d9ded5; --soft:#e8eee4; --accent:#d7e8a6; }
+:root { --paper:#f6f5ef; --white:#fff; --ink:#172d27; --green:#24b187; --muted:#5b6a63; --line:#d9ded5; --soft:#e8eee4; --accent:#d7e8a6; }
 .instruction-page { max-width:900px; padding-block:50px; }
 .instruction-page h1 { font-size:45px; }
 .instruction-page h2 { font-size:29px; margin-top:44px; }
